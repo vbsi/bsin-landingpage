@@ -1,0 +1,17 @@
+/*!
+Template :	ICOCrypto @by Softnio
+Theme	 :  Default
+Version	 :	1.9.1
+Updated	 :	12.02.2019
+*/
+/*! WRITE YOUR CUSTOM STYLE **/
+
+.light-theme nav ul li.menu-item a.nav-link{ color: #1940b0 !important;  }
+.light-theme .is-transparent:not(.has-fixed):not(.is-light) .toggle-line{ color: #026bfb !important;  }
+.light-theme nav ul li.menu-item a:hover{ outline: 0 !important; color: #16a3fe !important; }
+.light-theme nav ul li.menu-item a.active {color: #16a3fe !important;}
+.light-theme .header-banner{ background-color: #f6fafd !important;  }
+.light-theme .banner-caption h1.title{ color: #1940b0 !important;  }
+.light-theme .banner-caption p.lead{ color: #1940b0 !important;  }
+.light-theme .tc-light em.social-icon{ color: #fff !important; background: #18A4FE !important; }
+.light-theme .tc-light em.social-icon:hover{ color: #fff !important; background: #193FB0 !important; }
